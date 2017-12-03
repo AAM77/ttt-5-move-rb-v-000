@@ -4,3 +4,5 @@ require_relative '../lib/move.rb'
 
 # Code your CLI Here
 puts "Welcome to Command Line Tic-Tac-Toe. Please enter a "
+
+display_board(board);
