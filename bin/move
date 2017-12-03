@@ -8,3 +8,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "];
 display_board(board);
 
 puts "Where would you like to go?";
+move = gets.strip;
