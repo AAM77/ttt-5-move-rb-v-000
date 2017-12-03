@@ -14,4 +14,5 @@ end
 
 def move(board_array, index, charXO = 'X')
   board_array[index] = charXO;
-  return board_array[index]
+  return board_array[index];
+end
