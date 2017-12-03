@@ -11,3 +11,4 @@ puts "Where would you like to go?";
 move_input = gets.strip;
 input_to_index(move_input);
 move(board, move_input)
+display_board(board);
